@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CB0FCB4917B29CAC00DC8D84"
-               BuildableName = "pTest.app"
-               BlueprintName = "pTest"
-               ReferencedContainer = "container:pTest.xcodeproj">
+               BlueprintIdentifier = "CB73EEB317B29F52003D6135"
+               BuildableName = "aNewTest.app"
+               BlueprintName = "aNewTest"
+               ReferencedContainer = "container:aNewTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB0FCB4917B29CAC00DC8D84"
-            BuildableName = "pTest.app"
-            BlueprintName = "pTest"
-            ReferencedContainer = "container:pTest.xcodeproj">
+            BlueprintIdentifier = "CB73EEB317B29F52003D6135"
+            BuildableName = "aNewTest.app"
+            BlueprintName = "aNewTest"
+            ReferencedContainer = "container:aNewTest.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB0FCB4917B29CAC00DC8D84"
-            BuildableName = "pTest.app"
-            BlueprintName = "pTest"
-            ReferencedContainer = "container:pTest.xcodeproj">
+            BlueprintIdentifier = "CB73EEB317B29F52003D6135"
+            BuildableName = "aNewTest.app"
+            BlueprintName = "aNewTest"
+            ReferencedContainer = "container:aNewTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB0FCB4917B29CAC00DC8D84"
-            BuildableName = "pTest.app"
-            BlueprintName = "pTest"
-            ReferencedContainer = "container:pTest.xcodeproj">
+            BlueprintIdentifier = "CB73EEB317B29F52003D6135"
+            BuildableName = "aNewTest.app"
+            BlueprintName = "aNewTest"
+            ReferencedContainer = "container:aNewTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

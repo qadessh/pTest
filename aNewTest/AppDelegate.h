@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  pTest
+//  aNewTest
 //
 //  Created by XGRoup5 on 8/7/13.
 //  Copyright (c) 2013 XGRoup. All rights reserved.

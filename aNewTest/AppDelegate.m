@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  pTest
+//  aNewTest
 //
 //  Created by XGRoup5 on 8/7/13.
 //  Copyright (c) 2013 XGRoup. All rights reserved.
@@ -13,10 +13,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    
-	//alabala portocala
-	
-	
+    // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     return YES;
